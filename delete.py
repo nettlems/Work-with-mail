@@ -3,7 +3,7 @@ import email
 from email.header import decode_header
 
 # учетные данные
-username = "tushin907@gmail.com"
+username = "mailaddressname.gmail.com"
 password = "password"
 
 # create an IMAP4 class with SSL
